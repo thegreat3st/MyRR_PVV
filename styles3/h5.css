@@ -1,0 +1,7 @@
+h3 {
+    color: #0047ab; /* Синій колір заголовка */
+    font-size: 22pt; /* Трохи менший розмір */
+    font-family: "Trebuchet MS", Arial, sans-serif; /* Інше сімейство шрифтів */
+    font-style: italic; /* Курсив */
+    text-decoration: underline; /* Підкреслення */
+}
